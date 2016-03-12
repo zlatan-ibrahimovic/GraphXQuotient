@@ -2,6 +2,8 @@
 Ped M2
 
 Lancer Spark
+$:
+
 ./opt/spark-1.6.0-bin-hadoop2.4/bin/spark-submit 
 --class com.bordeaux.projet.Test 
 --master local 
